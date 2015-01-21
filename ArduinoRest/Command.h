@@ -1,6 +1,7 @@
 #ifndef __COMMAND_H__
 #define __COMMAND_H__
 
+#include <Arduino.h>
 #include <string.h>
 
 class Command

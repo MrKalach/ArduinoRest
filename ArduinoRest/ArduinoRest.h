@@ -2,7 +2,7 @@
 #define __MyREST_H__
 
 #include <Arduino.h>
-#include "HardwareSerial.h"
+#include <HardwareSerial.h>
 #include "Command.h"
 
 typedef void (*TFuncHandlerP)(Command& cmd);

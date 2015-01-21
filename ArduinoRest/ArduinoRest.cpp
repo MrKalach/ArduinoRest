@@ -1,5 +1,4 @@
 #include "ArduinoRest.h"
-#include <Arduino.h>
 #include <HardwareSerial.h>
 
 ArduinoRest::ArduinoRest(HardwareSerial& serial) : _serial(serial)
