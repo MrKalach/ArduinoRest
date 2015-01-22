@@ -32,3 +32,5 @@ Just copy ArduinoRest folder to your libraries folder. Restart Arduino IDE if ne
       rest.Proceed();                           // need to call every cycle
     }
 
+#Result
+![PuttyScreenshot](/ScreenShots/result.png)
